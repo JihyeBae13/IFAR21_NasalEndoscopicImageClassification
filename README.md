@@ -7,5 +7,7 @@ papillomas on nasal endoscopic images. Int Forum Allergy Rhinol. 2021;11:1637–
 
 If you use any of the codes published in this repository, partially or fully, you MUST cite the above paper.
 
-Please check the 
+Please check "entgit" folder.
+
+Codes are developed by Benton Girdler.
 
